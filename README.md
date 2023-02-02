@@ -1,6 +1,7 @@
 # Auto-order-robot
 
 自動依據每1分鐘的KD值判斷是否下單買賣
+
     KD值來源   : Binance 
     下單交易所 : dydx
     
